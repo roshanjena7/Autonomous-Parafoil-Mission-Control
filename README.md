@@ -28,6 +28,7 @@ This project simulates an autonomous parafoil payload recovery mission. The syst
 * Reinforcement Learning
 
 ## Screenshots
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/2dbd5de4-2d6a-4cb8-bcb8-22d9bfb1704d" />
 
 
 
