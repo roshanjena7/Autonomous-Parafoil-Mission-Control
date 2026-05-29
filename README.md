@@ -29,7 +29,7 @@ This project simulates an autonomous parafoil payload recovery mission. The syst
 
 ## Screenshots
 
-(Add screenshots here)
+
 
 ## Future Improvements
 
